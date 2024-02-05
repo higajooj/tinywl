@@ -1,3 +1,21 @@
+# Overview
+
+My goal with this project is to make a fully functional Wayland compositor,
+and, along the way, effectively learn the following:
+- Wayland (of course...)
+- C (maybe C++ later)
+- C tooling and build tools
+- how to organize C source code
+- Unix programming
+
+I have some things that I like and want working the way I intend, based off of
+using i3, Sway and Hyprland for some years. A bar and dynamic menu might come
+next.
+
+Initial source code comes from tinywl.
+
+(Original TinyWL README below)
+
 # TinyWL
 
 This is the "minimum viable product" Wayland compositor based on wlroots. It
